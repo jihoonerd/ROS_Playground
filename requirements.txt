@@ -12,6 +12,7 @@ cv-bridge==1.15.0
 diagnostic-analysis==1.10.3
 diagnostic-common-diagnostics==1.10.3
 diagnostic-updater==1.10.3
+distro==1.5.0
 docutils==0.16
 dynamic-reconfigure==1.7.1
 gazebo-plugins==2.9.1
@@ -31,6 +32,7 @@ message-filters==1.15.9
 pyparsing==2.4.7
 python-dateutil==2.8.1
 python-qt-binding==0.4.3
+PyYAML==5.3.1
 qt-dotgraph==0.4.2
 qt-gui==0.4.2
 qt-gui-cpp==0.4.2
@@ -50,6 +52,7 @@ rosmaster==1.15.9
 rosmsg==1.15.9
 rosnode==1.15.9
 rosparam==1.15.9
+rospkg==1.2.9
 rospy==1.15.9
 rosserial-arduino==0.9.1
 rosserial-client==0.9.1
